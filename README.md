@@ -1,2 +1,2 @@
-# deep learning projects
+# Deep learning projects
 These are projects I made in my coursera's deep learning courses
